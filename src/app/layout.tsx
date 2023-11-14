@@ -3,6 +3,12 @@ import './globals.css'
 export const metadata = {
   title: 'TaxBuddy',
   description: '',
+  
+}
+
+export const viewport = {
+  width: 'device-width',
+  initialScale: 1,
 }
 
 export default function RootLayout({
